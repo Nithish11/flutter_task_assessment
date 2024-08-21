@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'MVVM User List',
+      title: 'User List',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
